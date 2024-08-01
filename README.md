@@ -1,6 +1,9 @@
 
 # Business Insight 360
 
+![360-dashboard](https://github.com/user-attachments/assets/9bae9c86-7798-4713-9f08-f24fbf915860)
+
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmZjNzg3MTctNTY1My00MDRmLWFjOGUtMTFiZDI0MjJiOWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9fec19af5ab5f8dcfdc3)
 
 
 ## 📕 Project Overview
