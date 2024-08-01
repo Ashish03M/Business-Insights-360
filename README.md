@@ -1,5 +1,5 @@
 
-# 👨🏻‍💻 Business Insight 360  📈
+# 👨🏻‍💻 Business Insights 360  📈
 
 ![360-dashboard](https://github.com/user-attachments/assets/9bae9c86-7798-4713-9f08-f24fbf915860)
 
@@ -71,11 +71,4 @@ The dashboard gathers and employs data from two main sources to provide comprehe
 - MySQL Database: This robust database stores both fact and dimension tables. The fact tables encompass detailed transactional data, while the dimension tables provide descriptive information. The combination of these tables enables in-depth analysis and reporting capabilities within the dashboard.
 
 By integrating these data sources, the dashboard ensures a holistic view of the business performance and market dynamics.
-
-
-
-
-
-
-
 
