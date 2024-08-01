@@ -1,7 +1,10 @@
 
-# Business Insight 360
+# 👨🏻‍💻 Business Insight 360  📈
 
 ![360-dashboard](https://github.com/user-attachments/assets/9bae9c86-7798-4713-9f08-f24fbf915860)
+
+
+## 🎥 Live Dashboard : Interact and Experience 
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmZjNzg3MTctNTY1My00MDRmLWFjOGUtMTFiZDI0MjJiOWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9fec19af5ab5f8dcfdc3)
 
@@ -9,6 +12,7 @@
 ## 📕 Project Overview
 
 AtliQ Hardware has experienced significant growth in recent years and has decided to adopt Data Analytics with Power BI for the first time. This initiative aims to outpace their competitors by enabling data-driven decision-making. The project is expected to address stakeholders' questions across various aspects, including Finance, Sales, Marketing, and Supply Chain.
+
 ## 💼 Tech Stack
 🛠 **MySQL Database** - Data extraction.
 
@@ -41,3 +45,35 @@ AtliQ Hardware has experienced significant growth in recent years and has decide
 💸Forecast Accuracy
 
 💸 Revenue Distribution and Market Share
+
+## 🧑‍💼 Stakeholders Requirement 📋
+
+- 5 dashboards tailored for different stakeholders to enhance their data-driven decisions :
+
+📊  Finance View
+
+📊  Sales View
+
+📊  Marketing View
+
+📊  Supply Chain View
+
+📊  Executive View
+
+## 🗂️ Data
+
+The dashboard gathers and employs data from two main sources to provide comprehensive insights:
+
+- Excel/CSV Files: This source includes critical information such as sales targets, market share statistics, and other related data. These files are regularly updated to reflect the latest figures and trends in the market.
+
+- MySQL Database: This robust database stores both fact and dimension tables. The fact tables encompass detailed transactional data, while the dimension tables provide descriptive information. The combination of these tables enables in-depth analysis and reporting capabilities within the dashboard.
+
+By integrating these data sources, the dashboard ensures a holistic view of the business performance and market dynamics.
+
+
+
+
+
+
+
+
