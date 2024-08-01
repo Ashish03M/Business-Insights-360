@@ -8,6 +8,8 @@
 
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNmZjNzg3MTctNTY1My00MDRmLWFjOGUtMTFiZDI0MjJiOWIxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=9fec19af5ab5f8dcfdc3)
 
+[LinkedIn Post and Presentation Link](https://www.linkedin.com/posts/ashishm03_powerbi-mysql-datavisualization-activity-7219293706674163712-hVMb?utm_source=share&utm_medium=member_desktop)
+
 
 ## 📕 Project Overview
 
